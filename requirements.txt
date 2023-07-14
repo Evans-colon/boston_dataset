@@ -1,0 +1,8 @@
+pandas
+numpy
+Pipeline
+sklearn
+seaborn
+scipy
+matplotlib
+statsmodels
